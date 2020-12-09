@@ -1,0 +1,131 @@
+{
+  "music.nether.basalt_deltas": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.nether.soul_sand_valley": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.nether.crimson_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.nether.warped_forest": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "music/game/nether/nether1",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether2",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether3",
+        "stream": true,
+        "weight": 1
+      },
+      {
+        "name": "music/game/nether/nether4",
+        "stream": true,
+        "weight": 1
+      }
+    ]
+  },
+  "music.under_water": {
+    "replace": true,
+    "sounds": []
+  }
+}
